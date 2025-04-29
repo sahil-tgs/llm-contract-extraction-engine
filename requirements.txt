@@ -1,0 +1,5 @@
+docling
+langchain_community 
+openai 
+markdown2 
+python-dotenv
